@@ -17,5 +17,11 @@ This repository contains my Frontend AI Engineering capstone project.
 - Build responsive web applications
 - Follow clean coding practices
 
+## Roadmap
+
+- Complete setup
+- Build frontend
+- Learn React
+
 ## Author
 Prakriti Thapliyal
